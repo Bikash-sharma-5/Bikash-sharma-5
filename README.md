@@ -1,5 +1,5 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=5018&pause=1000&color=FFFFFF&center=true&random=false&width=500&lines=%3EHi+%F0%9F%91%8B%2C+I'm+Bikash+kumar+sharma" alt="Typing SVG" /></a>
-<img align="top" margin="auto" alt="coding" width="2000" height="400" src="https://github.com/sharmajikechhotebete/sharmajikechhotebete/blob/main/hack-hacking.gif">
+<img align="top" margin="auto" alt="coding" width="2000" height="300" src="https://hackernoon.com/images/f2px36fy.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sharmajikechhotebete&label=Profile%20views&color=0e75b6&style=flat" alt="sharmajikechhotebete" /> </p>
 
