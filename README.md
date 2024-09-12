@@ -1,4 +1,5 @@
-# 💫About Me :
+<img style="display: block;-webkit-user-select: none;width:100%;margin: auto;cursor: zoom-in;background-color: hsl(0, 0%, 90%);transition: background-color 300ms;" src="https://static.vecteezy.com/system/resources/previews/002/099/443/non_2x/programming-code-coding-or-hacker-background-programming-code-icon-made-with-binary-code-digital-binary-data-and-streaming-digital-code-vector.jpg" width="731" height="412">
+# About Me :
 I am currently pursuing bachelor of engineering in computer engineering
 I am learning React
 more  creative more design
