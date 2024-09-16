@@ -1,17 +1,18 @@
 <h2 align="left">Hi 👋! My name is Bikash Sharma and I'm a Computer Engineer, from AIT Pune</h2>
+<img  height="450" width="1200" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif"  />
 
 ###
 <div style="display:flex;justify-content:center">
-  <h2> About me:</h2>
-  <p>I am second year  computer engineer student of army institute of technology (pune).I am designer and developer,where i have skills: <br> languages:  c ,c++ , python <br> design : Figma ,Canava <br> developer :Html,Css ,Javascript,React,Tailwind css ,Bootstrap </p>
+  <h2 align="center" > About me:</h2>
+  <p>I am second year  computer engineer student of army institute of technology (pune).I am designer and developer,where i have skills: <br> Languages:  c ,c++ , python <br> Design : Figma ,Canava <br> Developer :Html,Css ,Javascript,React,Tailwind css ,Bootstrap </p>
  
 </div>
+<div><h2 align="center" >TECH STACK</h2></div>
 
-<img align="right" height="150" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif"  />
 
 ###
 
-<div align="left">
+<div align="center" height="350px" width:100%>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
@@ -35,9 +36,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" alt="figma logo"  />
 </div>
 
-###
 
-<div align="left">
+<div><h2 align="center" >Connect me:</h2></div>
+<div align="center">
   <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
   <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
@@ -55,7 +56,12 @@
 ### 😂Random Dev Meme
 <h3 style="color=green">
 If you are assuming that you are both designer and a developer, either you are capable of everything, or you are a liar. 🫥</h3>
-![Snake animation](https://github.com/Bikash-sharma-5/Bikash-sharma-5/blob/output/github-contribution-grid-snake.svg)
+
 ---
 [![](https://visitcount.itsvg.in/api?id=bikash-sharma-5&icon=0&color=0)](https://visitcount.itsvg.in)
 ###
+# 📊GitHub Stats :
+![](https://github-readme-stats.vercel.app/api?username=bikash-sharma-5&theme=radical&hide_border=true&include_all_commits=true&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=bikash-sharma-5&theme=radical&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=bikash-sharma-5&theme=radical&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
+
