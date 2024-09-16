@@ -1,8 +1,8 @@
 <img style="display: block;-webkit-user-select: none;width:100%;margin: auto;cursor: zoom-in;background-color: hsl(0, 0%, 90%);transition: background-color 300ms;" src="https://static.vecteezy.com/system/resources/previews/002/099/443/non_2x/programming-code-coding-or-hacker-background-programming-code-icon-made-with-binary-code-digital-binary-data-and-streaming-digital-code-vector.jpg" width="731" height="412">
 # About Me :
-I am currently pursuing bachelor of engineering in computer engineering
-I am learning React
-more  creative more design
+<h3>I am currently pursuing bachelor of engineering in computer engineering</h3>
+<h3>I am learning React</h3>
+<h3>I am learning React</h3>
 
 
 
@@ -20,7 +20,8 @@ more  creative more design
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ### 😂Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
+<h3 style="color=green">
+If you are assuming that you are both designer and a developer, either you are capable of everything, or you are a liar. 🫥</h3>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=bikash-sharma-5&icon=0&color=0)](https://visitcount.itsvg.in)
