@@ -1,5 +1,5 @@
 <h2 align="left">Hi 👋! My name is Bikash Sharma and I'm a Computer Engineer, from AIT Pune</h2>
-<img  height="450" width="1200" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif"  />
+<img  height="450" width="1200" src="https://blog.streamr.network/wp-content/uploads/2023/09/builder_cli.gif" />
 
 ###
 <div style="display:flex;justify-content:center">
@@ -16,6 +16,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
+  
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
   <img width="12" />
