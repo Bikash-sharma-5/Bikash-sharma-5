@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Bikash Sharma and I'm a Computer Engineer, from AIT Pune</h2>
+<h2 align="left"> Bikash Sharma and I'm a Computer Engineer, from AIT Pune</h2>
 <img height="450" width="1200" src="https://blog.streamr.network/wp-content/uploads/2023/09/builder_cli.gif" />
 
 ###
