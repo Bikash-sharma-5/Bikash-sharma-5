@@ -39,6 +39,10 @@
 [![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)](https://github.com/Bikash-Sharma-5)
 [![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white)](https://github.com/Bikash-Sharma-5)
 [![Canva](https://img.shields.io/badge/-Canva-00C4CC?style=flat&logo=canva&logoColor=white)](https://github.com/Bikash-Sharma-5)
+[![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat&logo=redis&logoColor=white)](https://github.com/Bikash-Sharma-5)
+[![Nginx](https://img.shields.io/badge/-Nginx-009639?style=flat&logo=nginx&logoColor=white)](https://github.com/Bikash-Sharma-5)
+[![WebRTC](https://img.shields.io/badge/-WebRTC-333333?style=flat&logo=webrtc&logoColor=white)](https://github.com/Bikash-Sharma-5)
+[![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat&logo=graphql&logoColor=white)](https://github.com/Bikash-Sharma-5)
 
 
 
