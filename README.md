@@ -28,6 +28,7 @@
 [![Tailwind](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)](https://github.com/Bikash-Sharma-5)
 [![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap)](https://github.com/Bikash-Sharma-5)
 [![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)](https://github.com/Bikash-Sharma-5)
+[![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js&logoColor=white)](https://github.com/Bikash-Sharma-5)
 [![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)](https://github.com/Bikash-Sharma-5)
 [![Express.js](https://img.shields.io/badge/-Express.js-black?style=flat&logo=express)](https://github.com/Bikash-Sharma-5)
 [![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=white)](https://github.com/Bikash-Sharma-5)
