@@ -9,7 +9,7 @@
   <a href="mailto:Bikashsharma5151@gmail.com"><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&style=for-the-badge" height="25" alt="gmail logo" /></a>
 </div>
 
-I am a Computer Engineering student at the Army Institute of Technology, Pune [cite: 4, 8], specializing in backend development and cloud infrastructure[cite: 10, 18, 22]. My work focuses on building scalable data pipelines [cite: 13, 17] and secure cloud environments [cite: 32, 35], with hands-on experience in the MERN stack [cite: 20, 25], Spring Boot [cite: 31, 38], and DevOps tools like AWS, Docker, and Kubernetes[cite: 22, 23, 40]. I am passionate about creating efficient technology solutions, from decentralized blockchain platforms [cite: 26, 28] to AI-driven monitoring systems[cite: 27, 31].
+I am a Computer Engineering student at the Army Institute of Technology, Pune , specializing in backend development and cloud infrastructure. My work focuses on building scalable data pipelines and secure cloud environments, with hands-on experience in the MERN stack, Spring Boot, and DevOps tools like AWS, Docker, and Kubernetes. I am passionate about creating efficient technology solutions, from decentralized blockchain platforms  to AI-driven monitoring systems.
 
 ---
 
